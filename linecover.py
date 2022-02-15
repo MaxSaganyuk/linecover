@@ -74,7 +74,7 @@ while redWord < wordsAm:
 			j += int(font_size / 2)
 		i += font_size
 
-	img.save("linecover" + str(redWord + 1) + ".jpg")
+	img.save("linecover" + str(redWord + 1) + ".png")
 	print("Done " + str(redWord + 1))
 	redWord += 1
 print("Finished")
