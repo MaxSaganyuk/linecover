@@ -7,3 +7,8 @@ The program creates png images with random letters on black background with seve
 
 linecover.py word1 word2 ... wordN
 
+In this example linecover.py github hubgit
+
+<img src="readMeImages\1.png"></img>
+<img src="readMeImages\2.png"></img>
+
